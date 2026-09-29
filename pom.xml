@@ -6,8 +6,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.devops</groupId>
-    <artifactId>java-docker-webapp</artifactId>
+    <artifactId>employee-management-java</artifactId>
     <version>1.0.0</version>
+
     <packaging>war</packaging>
 
     <properties>
@@ -27,7 +28,7 @@
     </dependencies>
 
     <build>
-        <finalName>java-docker-webapp</finalName>
+        <finalName>employee-management</finalName>
 
         <plugins>
             <plugin>
